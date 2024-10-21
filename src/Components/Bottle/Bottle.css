@@ -1,0 +1,11 @@
+.bottle{
+    padding: 10px;
+    box-shadow: 0 0 10px 1px rgb(164, 164, 164);
+    border-radius: 10px;
+}
+.bottle img{
+width: 200px;
+}
+button{
+    background-color: rgb(224, 224, 224);
+}
